@@ -1,5 +1,5 @@
 {
-    "name": "lanz/laravel-commentable",
+    "name": "baklysystems/laravel-commentable",
     "description": "Allows for threaded comments to be added to multiple and different models.",
     "keywords": ["laravel", "commentable", "comment", "threaded", "nested set", "laravel 4", "laravel 5"],
     "license": "MIT",
@@ -7,7 +7,11 @@
         {
             "name": "Romain Lanz",
             "email": "lanz.romain@gmail.com"
-        }
+        },
+	{
+	    "name":"Mostafa El-Bakly",
+	    "email":"elbakly@gmail.com"
+	}
     ],
     "require": {
         "php": ">=5.4",
